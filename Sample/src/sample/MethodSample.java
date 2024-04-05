@@ -12,8 +12,8 @@ public class MethodSample {
     }
     
     
-    public static void sumMethod1(int num1, int num2) {
-        int result = num1 + num2;
+    public static void sumMethod1(int num, int num2) {
+        int result = num + num2;
         System.out.println("sumMethod1の結果は" + result);
     }
     
